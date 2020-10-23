@@ -10,9 +10,19 @@ Hi there! 👋
 </br>
 
 I am Ratu Aubrey Khairani, but you can call me Oby instead :smile: . 
-I'm Informatics student of Diponegoro University class of 2020. 
+I'm Informatics student of Diponegoro University class of 2020 :student:
 I live in Jakarta, Indonesia. 
 I'd love to learn programming language. 
 I'm just started learning to code :blush: . 
 Nice to meet you guys! :cherry_blossom:
 
+#About Me :
+### - I'm 18 years old Informatics Student 
+<img hight="400" width="500" alt="GIF" align="right" src="https://tenor.com/view/anime-love-cute-smile-gif-15836771">
+### - Learning
+    - Almost nothing/everything the lecture told me :yum:
+    
+### - Hobbies
+    -Gaming :video_game:
+    -Watching Anime :tv:
+    -Hang Out :clinking_glasses:
