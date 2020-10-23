@@ -39,9 +39,6 @@ Say the password! "lemonlemon, It's me!!" 😂
 </a>
 <a href="https://www.linkedin.com/in/aubrey-oby-315633121/">
   <img align="left" alt="Linkedin" width="100" hight="100" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-154-459182.png" />
-</br>
-</br>
-</br>
 </a>
 <a href="https://www.wattpad.com/user/Dixiee_">
   <img align="left" alt=" Wattpad" width="100" hight="100" src="https://img.icons8.com/plasticine/2x/wattpad.png" />
