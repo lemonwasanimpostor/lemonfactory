@@ -2,7 +2,7 @@
 # Hi there!
 
 <div align="center">
-<img hight="300" width="700" alt="img" align="center" src="https://ibb.co/WtBq3FZ">
+<img hight="300" width="700" alt="jpg" align="center" src="https://ibb.co/WtBq3FZ">
 </div>
 </br>
 </br>
