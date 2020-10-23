@@ -16,7 +16,7 @@ I'd love to learn programming language.
 I'm just started learning to code :blush: . 
 Nice to meet you guys! :cherry_blossom:
 
-#About Me :
+# About Me :
 ### - I'm 18 years old Informatics Student 
 <img src="https://tenor.com/view/anime-love-cute-smile-gif-15836771.gif" alt="Smile" width="249" height="249" align="right"></a>
 ### - Learning
@@ -29,7 +29,8 @@ Nice to meet you guys! :cherry_blossom:
     -Singing 🎤
     -Playing Guitar 🎸
     
-#Contact Me:
+# Contact Me:
+<img src="https://tenor.com/view/kawaii-anime-tongue-bleh-gif-5018411.gif" alt="wlee" width="249" height="230" align="left"></a>
 Don't be shy to reach out to me! 
 Say the password! "lemonlemon, It's me!!" 😂
-<img src="https://tenor.com/view/kawaii-anime-tongue-bleh-gif-5018411.gif" alt="wlee" width="498" height="461" align="right"></a>
+
