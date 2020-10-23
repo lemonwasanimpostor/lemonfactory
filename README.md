@@ -35,18 +35,18 @@ Don't be shy to reach out to me!
 Say the password! "lemonlemon, It's me!!" 😂
 
 <a href="mailto:aubrey.oby@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" />
+ <img align="left" alt="Gmail" width="100" hight="100" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aubrey-oby-315633121/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-154-459182.png" />
+  <img align="left" alt="Linkedin" width="100" hight="100" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-154-459182.png" />
 </br>
 </br>
 </br>
 </a>
 <a href="https://www.wattpad.com/user/Dixiee_">
-  <img align="left" alt=" Wattpad" width="130" hight="100" src="https://img.icons8.com/plasticine/2x/wattpad.png" />
+  <img align="left" alt=" Wattpad" width="100" hight="100" src="https://img.icons8.com/plasticine/2x/wattpad.png" />
 </a>
 <a href="https://instagram.com/aubreykhrni">
-  <img align="left" alt="Instagram" width="130" hight="100" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-icon-instagram-logo-social-media-icon-icon-21.png" />
+  <img align="left" alt="Instagram" width="100" hight="100" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-icon-instagram-logo-social-media-icon-icon-21.png" />
 </a>
  </p>
