@@ -2,7 +2,7 @@
 Hi there!
 
 I am Ratu Aubrey Khairani, but you can call me Oby instead :smile: . 
-I'm Informatics student of Diponegoro University. 
+I'm Informatics student of Diponegoro University class of 2020. 
 I live in Jakarta, Indonesia. I'd love to learn programming language. 
 I'm just started learning to code :blush: . 
 I'm learning python currently. 
