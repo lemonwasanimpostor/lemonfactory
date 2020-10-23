@@ -26,3 +26,10 @@ Nice to meet you guys! :cherry_blossom:
     -Gaming 🎮
     -Watching Anime 📺
     -Hang Out 🥂
+    -Singing 🎤
+    -Playing Guitar 🎸
+    
+#Contact Me:
+Don't be shy to reach out to me! 
+Say the password! "lemonlemon, It's me!!" 😂
+<img src="https://tenor.com/view/kawaii-anime-tongue-bleh-gif-5018411.gif" alt="wlee" width="498" height="461" align="right"></a>
