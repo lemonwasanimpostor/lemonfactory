@@ -2,7 +2,7 @@
 # Hi there!
 
 <div align="center">
-<img hight="1000" width="500" alt=" " align="center" src="<a href="https://ibb.co/WtBq3FZ"><img src="https://i.ibb.co/WtBq3FZ/Whats-App-Image-2020-10-24-at-02-31-26.jpg" alt="Whats-App-Image-2020-10-24-at-02-31-26" border="0"></a>
+<img src="https://i.ibb.co/WtBq3FZ/Whats-App-Image-2020-10-24-at-02-31-26.jpg" alt="Lemon" width="500" height="1000" border="0"></a>
 </div>
 </br>
 </br>
