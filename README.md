@@ -18,11 +18,11 @@ Nice to meet you guys! :cherry_blossom:
 
 #About Me :
 ### - I'm 18 years old Informatics Student 
-<img src="https://tenor.com/view/anime-love-cute-smile-gif-15836771.gif" alt="Smile" width="498" height="498" align="right"></a>
+<img src="https://tenor.com/view/anime-love-cute-smile-gif-15836771.gif" alt="Smile" width="249" height="249" align="right"></a>
 ### - Learning
-    - Almost nothing/everything the lecture told me :yum:
+    - Almost nothing/everything the lecture told me 😋
     
 ### - Hobbies
-    -Gaming :video_game:
-    -Watching Anime :tv:
-    -Hang Out :clinking_glasses:
+    -Gaming 🎮
+    -Watching Anime 📺
+    -Hang Out 🥂
